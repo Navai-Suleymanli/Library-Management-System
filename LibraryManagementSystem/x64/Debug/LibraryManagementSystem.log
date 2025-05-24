@@ -1,0 +1,5 @@
+﻿  LibraryManagementSystem.cpp
+C:\Users\Akula\Documents\c++ projects\testProjects\LibraryManagementSystem\LibraryManagementSystem\FileOperations.h(61,42): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'LibraryManagementSystem.cpp')
+  
+  LibraryManagementSystem.vcxproj -> C:\Users\Akula\Documents\c++ projects\testProjects\LibraryManagementSystem\x64\Debug\LibraryManagementSystem.exe

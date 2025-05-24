@@ -1,0 +1,3 @@
+ekrem eylisli,daw yuxular,1001,5
+seirler,mikayil musgiq,1002,3
+c++,c++ creator,1003,1
